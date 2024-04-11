@@ -1,0 +1,15 @@
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\Lab5.GeneratedMSBuildEditorConfig.editorconfig
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfoInputs.cache
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\Lab5.AssemblyInfo.cs
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\Lab5.csproj.CoreCompileInputs.cache
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\Lab5.sourcelink.json
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\bin\Debug\net8.0\Lab5.exe
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\bin\Debug\net8.0\Lab5.deps.json
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\bin\Debug\net8.0\Lab5.runtimeconfig.json
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\bin\Debug\net8.0\Lab5.dll
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\bin\Debug\net8.0\Lab5.pdb
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\Lab5.dll
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\refint\Lab5.dll
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\Lab5.pdb
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\Lab5.genruntimeconfig.cache
+E:\проги\repository\Portfolio\05-abstract-factory-Mostovyi-Vitalii1\Lab5\obj\Debug\net8.0\ref\Lab5.dll
